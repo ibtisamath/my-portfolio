@@ -40,7 +40,7 @@ const ProjectCard = ({ img, title, github, url, onClick, id }) => {
       whileInView="animate"
       custom={id}
       viewport={{ once: true }}
-      className="group relative lg:h-[200px] cursor-pointer overflow-hidden bg-white  group-hover:lg:scale-105  will-change-transform"
+      className="group relative h-[100px] lg:h-[200px] cursor-pointer overflow-hidden bg-white  group-hover:lg:scale-105  will-change-transform"
     >
       <img
         src={img}
@@ -50,7 +50,7 @@ const ProjectCard = ({ img, title, github, url, onClick, id }) => {
       />
       <div
         onClick={handleClickMobile}
-        className="transition-all absolute -bottom-5 z-10 flex h-0 w-full flex-col items-center justify-center overflow-hidden bg-pink-global  p-4 opacity-90 duration-500 ease-in-out group-hover:bottom-0 group-hover:h-full group-hover:opacity-80 lg:cursor-default lg:justify-normal group-hover:lg:h-[100px]"
+        className="transition-all absolute -bottom-5 z-10 flex h-0 w-full flex-col items-center justify-center overflow-hidden bg-gray lg:bg-pink-global  p-4 opacity-90 duration-500 ease-in-out group-hover:bottom-0 group-hover:h-full group-hover:opacity-80 lg:cursor-default lg:justify-normal group-hover:lg:h-[100px]"
       >
         <h3 className=" font-kaushan text-3xl font-semibold text-black opacity-100 lg:text-[1.7rem]">
           {title}
