@@ -8,8 +8,7 @@
     "github": "https://github.com/ibtisamath/Booki",
     "website": "https://ibtisamath.github.io/Booki/",
     "tags": ["HTML5", "CSS3", "Responsive Web Design", "Figma"],
-    "img_info": "/img/mockup/mockup_booki_small2.webp",
-    "img_cover": "/img/banner/banner_booki.png"
+    "img_cover": "img/banner/banner_booki.png"
   },
 
   {
@@ -28,8 +27,7 @@
       "Figma",
       "Animations CSS"
     ],
-    "img_info": "/img/mockup/mockup_kasa_small.webp",
-    "img_cover": "/img/banner/banner_kasa.png"
+    "img_cover": "img/banner/banner_kasa.png"
   },
   {
     "id": "3",
@@ -47,8 +45,7 @@
       "MongoDB",
       "Swagger"
     ],
-    "img_info": "/img/mockup/mockup_argentBank_small.webp",
-    "img_cover": "/img/banner/banner_argent.png"
+    "img_cover": "img/banner/banner_argent.png"
   },
   {
     "id": "4",
@@ -66,8 +63,7 @@
       "JWT",
       "Swagger"
     ],
-    "img_info": "/img/mockup/mockup_sophie.webp",
-    "img_cover": "/img/banner/banner_sophieBluel.png"
+    "img_cover": "img/banner/banner_sophieBluel.png"
   },
   {
     "id": "5",
@@ -78,8 +74,7 @@
     "github": "https://github.com/ibtisamath/ohmyfood.git",
     "website": "https://ibtisamath.github.io/oh_my_food/",
     "tags": ["HTML5", "CSS3", "Responsive Web Design", "Animations"],
-    "img_info": "/img/mockup/mockup_ohmyfood_small.webp",
-    "img_cover": "/img/banner/banner_ohmyfood.png"
+    "img_cover": "img/banner/banner_ohmyfood.png"
   },
 
   {
@@ -99,8 +94,7 @@
       "Lighthouse",
       "Accessibilité"
     ],
-    "img_info": "/img/mockup/mockup-nina.webp",
-    "img_cover": "/img/banner/banner-nina.jpg"
+    "img_cover": "img/banner/banner-nina.jpg"
   },
 
   {
@@ -111,8 +105,7 @@
     "overview": "Ma mission a été d'effectuer un débogage complet et d'optimiser le site web de 724events. J'ai commencé par une analyse approfondie du code source existant, identifiant ainsi les problèmes techniques qui entravaient les performances du site. Mon objectif était de garantir que le site soit fluide et réactif pour les visiteurs. Pour atteindre cet objectif, j'ai utilisé des tests unitaires pour vérifier chaque composant du site. Les React Dev Tools ont été essentielles pour analyser et optimiser le code React. Grâce à ces outils, j'ai pu cibler les zones spécifiques nécessitant des améliorations. En parallèle, j'ai finalisé le cahier de recette, créant des scénarios détaillés pour vérifier que chaque fonctionnalité du site fonctionnait comme prévu. Cela incluait des tests de navigation, de formulaire, de performance, et bien d'autres. Mon travail a permis d'assurer que le site réponde aux normes de qualité les plus élevées, offrant ainsi une expérience optimale aux utilisateurs.",
     "github": "https://github.com/ibtisamath/projet10.git",
     "tags": ["Débogage", "Optimisation", "Tests Unitaires", "React Dev Tools"],
-    "img_info": "/img/mockup/mockup-724.webp",
-    "img_cover": "/img/banner/banner-77events.png"
+    "img_cover": "img/banner/banner-77events.png"
   },
 
   {
@@ -132,7 +125,6 @@
       "Spécifications techniques",
       "Solutions techniques"
     ],
-    "img_info": "/img/mockup/mockup-qwenta.jpg",
-    "img_cover": "/img/banner/banner-qwenta.png"
+    "img_cover": "img/banner/banner-qwenta.png"
   }
 ]

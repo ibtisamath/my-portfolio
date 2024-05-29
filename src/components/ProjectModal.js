@@ -28,12 +28,7 @@ const ProjectModal = ({ data, isOpen, setIsOpen }) => {
           <AiOutlineClose className="text-2xl" />
         </button>
         <div>
-          <img
-            src={data.img_info}
-            alt={data.client}
-            className="m-auto mb-10 mt-40 h-[120px] object-cover md:h-[150px] lg:mt-44 lg:h-[180px]"
-          />
-
+          
           {/* Informations sur le projet */}
           <p className="text-[0.940rem] leading-[1.6rem] md:text-base">
             <span className="font-semibold text-gray-dark">Client :</span>{" "}
