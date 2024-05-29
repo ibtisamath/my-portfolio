@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ibtisamath/my-portfolio.git/static/css/main.19cb617b.css",
+    "main.js": "/ibtisamath/my-portfolio.git/static/js/main.e6acda18.js",
+    "static/js/453.977729c1.chunk.js": "/ibtisamath/my-portfolio.git/static/js/453.977729c1.chunk.js",
+    "static/media/bg_black.png": "/ibtisamath/my-portfolio.git/static/media/bg_black.eecb10aba904ce5ce5f6.png",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/ibtisamath/my-portfolio.git/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/kaushan-script-latin-400-normal.woff": "/ibtisamath/my-portfolio.git/static/media/kaushan-script-latin-400-normal.3d9eea0f7ff318a0f05a.woff",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/ibtisamath/my-portfolio.git/static/media/kaushan-script-latin-ext-400-normal.40ab2bd31ec71948facf.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff": "/ibtisamath/my-portfolio.git/static/media/kaushan-script-latin-ext-400-normal.3d593f2f1cf5cb6b9c80.woff",
+    "static/media/poppins-latin-400-normal.woff": "/ibtisamath/my-portfolio.git/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/ibtisamath/my-portfolio.git/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/ibtisamath/my-portfolio.git/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/web.svg": "/ibtisamath/my-portfolio.git/static/media/web.5f028a5d1bb8aa6359119ebbe71b02b9.svg",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/ibtisamath/my-portfolio.git/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/ibtisamath/my-portfolio.git/index.html",
+    "main.19cb617b.css.map": "/ibtisamath/my-portfolio.git/static/css/main.19cb617b.css.map",
+    "main.e6acda18.js.map": "/ibtisamath/my-portfolio.git/static/js/main.e6acda18.js.map",
+    "453.977729c1.chunk.js.map": "/ibtisamath/my-portfolio.git/static/js/453.977729c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19cb617b.css",
+    "static/js/main.e6acda18.js"
+  ]
+}
