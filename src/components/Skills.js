@@ -41,7 +41,7 @@ const Skills = () => {
               <div className="h-full w-full text-center transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)] ">
                 <div className="absolute h-full w-full [backface-visibility:hidden]">
                   <img
-                    src={data.url}
+                    src={data.img}
                     alt={`icône de ${data.title}`}
                     width={75}
                     height={75}
