@@ -40,7 +40,7 @@ const ProjectCard = ({ img, title, github, url, onClick, id }) => {
       whileInView="animate"
       custom={id}
       viewport={{ once: true }}
-      className="group relative h-[150px] lg:h-[200px] cursor-pointer overflow-hidden bg-white  group-hover:lg:scale-105  will-change-transform"
+      className="group relative h-[200px] cursor-pointer overflow-hidden bg-white  group-hover:lg:scale-105  will-change-transform"
     >
       <img
         src={img}
