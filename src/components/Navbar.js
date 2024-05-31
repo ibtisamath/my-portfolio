@@ -159,7 +159,7 @@ const Navbar = () => {
         >
           {menuItems.map((menuItem) => (
             <li key={menuItem.section} className={`${styleLink} `}>
-              <a
+              <a  onclick={() => setOpen(false)}
                 href={`#${menuItem.section}`}
                 style={
                   isDesktop && activeSection === menuItem.section
@@ -169,7 +169,6 @@ const Navbar = () => {
               >
                 {menuItem.text}
               </a>
-              onclick={() => setOpen(false)}
             </li>
           ))}
           <li>
