@@ -166,6 +166,7 @@ const Navbar = () => {
                     ? activeStyle
                     : {}
                 }
+                onclick={() => setOpen(false)}
               >
                 {menuItem.text}
               </a>
