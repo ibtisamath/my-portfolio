@@ -166,10 +166,10 @@ const Navbar = () => {
                     ? activeStyle
                     : {}
                 }
-                onclick={() => setOpen(false)}
               >
                 {menuItem.text}
               </a>
+              onclick={() => setOpen(false)}
             </li>
           ))}
           <li>
