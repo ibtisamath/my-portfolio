@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import TypeWriter from "./TypeWriter";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { BiLogoGithub, BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
+import { BiLogoGithub, BiLogoGmail } from "react-icons/bi";
 import { motion } from "framer-motion";
 
 const Header = () => {

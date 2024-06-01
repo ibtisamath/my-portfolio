@@ -1,5 +1,5 @@
 import React from "react";
-import { BiLogoGithub, BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
+import { BiLogoGithub, BiLogoGmail } from "react-icons/bi";
 import { motion } from "framer-motion";
 
 const Footer = () => {
