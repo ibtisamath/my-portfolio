@@ -13,7 +13,7 @@ const Footer = () => {
           viewport={{ once: false }}
         >
           <a
-            href="#"
+            href="https://github.com/ibtisamath"
             target="_blank"
             title="Github"
           >
@@ -24,34 +24,17 @@ const Footer = () => {
         <motion.div
           initial={{ opacity: 0, y: -80 }}
           whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.2 }}
-          viewport={{ once: false }}
-        >
-          <a
-            href="#"
-            target="_blank"
-            title="Linkedin"
-          >
-            <BiLogoLinkedin className="h-7 w-7 text-off-white transition-all duration-300 ease-in-out hover:brightness-75" />
-          </a>
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0, y: -80 }}
-          whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.3 }}
           viewport={{ once: false }}
         >
           <a
-            href="#"
+            href="mailto:soumanouibtisamath@gmail.com"
             target="blank"
             title="Gmail"
           >
             <BiLogoGmail className="mt-[2px] h-7 w-7 text-off-white transition-all duration-300 ease-in-out hover:brightness-75" />
           </a>
         </motion.div>
-
-      
       </div>
     </footer>
   );
