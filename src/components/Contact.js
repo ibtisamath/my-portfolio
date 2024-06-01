@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { BsEnvelopeAtFill } from "react-icons/bs";
-import { FaPhoneVolume } from "react-icons/fa6";
-import { ImLocation2 } from "react-icons/im";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { motion } from "framer-motion";
@@ -255,7 +253,7 @@ const Contact = () => {
             viewport={{ once: true }}
           >
             <a
-              href="mailto:ludivine.clement0985@gmail.com"
+              href="mailto:soumanouibtisamath@gmail.com"
               target="blank"
               title="Email"
               className="flex items-center gap-4"
