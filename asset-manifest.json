@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.e2a6bdfa.css",
-    "main.js": "/my-portfolio/static/js/main.ca90cdc8.js",
+    "main.css": "/my-portfolio/static/css/main.8e177969.css",
+    "main.js": "/my-portfolio/static/js/main.8fb95865.js",
     "static/js/453.977729c1.chunk.js": "/my-portfolio/static/js/453.977729c1.chunk.js",
     "static/media/bg_black.png": "/my-portfolio/static/media/bg_black.eecb10aba904ce5ce5f6.png",
     "static/media/kaushan-script-latin-400-normal.woff2": "/my-portfolio/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
@@ -14,12 +14,12 @@
     "static/media/web.svg": "/my-portfolio/static/media/web.5f028a5d1bb8aa6359119ebbe71b02b9.svg",
     "static/media/poppins-latin-ext-400-normal.woff2": "/my-portfolio/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "index.html": "/my-portfolio/index.html",
-    "main.e2a6bdfa.css.map": "/my-portfolio/static/css/main.e2a6bdfa.css.map",
-    "main.ca90cdc8.js.map": "/my-portfolio/static/js/main.ca90cdc8.js.map",
+    "main.8e177969.css.map": "/my-portfolio/static/css/main.8e177969.css.map",
+    "main.8fb95865.js.map": "/my-portfolio/static/js/main.8fb95865.js.map",
     "453.977729c1.chunk.js.map": "/my-portfolio/static/js/453.977729c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a6bdfa.css",
-    "static/js/main.ca90cdc8.js"
+    "static/css/main.8e177969.css",
+    "static/js/main.8fb95865.js"
   ]
 }
