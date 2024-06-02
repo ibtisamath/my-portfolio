@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Imgabout from "../assets/img/web.svg";
 
 
 const About = () => {
@@ -13,7 +12,7 @@ const About = () => {
       <div className="my-24 md:flex md:gap-8 lg:my-32 lg:gap-12">
         <div className="content-about">
           <motion.h1
-            className="pb-3 pt-12 font-kaushan text-[2.3rem] md:pb-3 md:pt-3 md:text-[2rem] lg:text-[2.5rem]"
+            className="pb-3 font-kaushan text-[2.3rem] md:pb-3 md:pt-3 md:text-[2rem] lg:text-[2.5rem]"
             initial={{ opacity: 0, y: 150 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}

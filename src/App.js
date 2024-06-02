@@ -7,6 +7,8 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Project from './components/Project';
 import Contact from './components/Contact';
+import { ToastContainer } from "react-toastify";
+
 config.autoAddCss = false;
 
 
@@ -21,6 +23,8 @@ function App() {
         <Project />
         <Contact />
         <Footer />
+        <ToastContainer position="bottom-right" autoClose={3000} />
+
     </div>    
   );
 }
