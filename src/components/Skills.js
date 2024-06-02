@@ -73,7 +73,7 @@ const Skills = () => {
           </motion.ul>
 
           <motion.ul
-            className="pt-0 text-gray-global md:pt-5"
+            className="pt-0 text-white-dark md:pt-5"
             initial={{ opacity: 0, scale: 0 }}
             whileInView={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, delay: 0.5 }}

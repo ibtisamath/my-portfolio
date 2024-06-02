@@ -27,7 +27,7 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
             viewport={{ once: true }}
           >
-            <p className="pt-3 text-sm leading-6 text-gray-dark lg:text-[1rem]">
+            <p className="pt-3 text-sm leading-6 text-gray-darkest lg:text-[1rem]">
               Principalement concentrée sur le développement front-end,
               où j&apos;adore concevoir des interfaces utilisateurs intuitives
               et esthétiques. J&apos;ai débuté mon parcours de développeuse web
@@ -69,7 +69,7 @@ const About = () => {
           >
             <a
               href="#contact"
-              className="text-gray-darkest mt-9 inline-block pl-[2px] text-[1rem] font-medium uppercase leading-[0.875rem] tracking-widest shadow-[inset_0px_-6px_0px] shadow-pink-light transition-all duration-[400ms] ease-out hover:shadow-[inset_0px_-15px_0px] hover:shadow-pink-light "
+              className="text-gray-darkest mt-9 inline-block pl-[2px] text-[0.9rem] font-medium uppercase leading-[0.875rem] tracking-widest shadow-[inset_0px_-6px_0px] shadow-pink-light transition-all duration-[400ms] ease-out hover:shadow-[inset_0px_-15px_0px] hover:shadow-pink-light "
             >
               Me contacter
             </a>
