@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section
       data-section
-      id="about"
+      id="about" 
       className=" m-auto -my-20 px-5 pb-12 pt-3 md:px-6 md:py-14 lg:-my-24 lg:max-w-[1160px] lg:px-12 lg:py-24"
     >
       <div className="my-24 md:flex md:gap-8 lg:my-32 lg:gap-12">
