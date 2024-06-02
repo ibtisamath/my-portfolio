@@ -27,35 +27,35 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
             viewport={{ once: true }}
           >
-            <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
+            <p className="pt-3 text-sm leading-6 text-black lg:text-[0.95rem]">
               Principalement concentrée sur le développement front-end,
               où j&apos;adore concevoir des interfaces utilisateurs intuitives
               et esthétiques. J&apos;ai débuté mon parcours de développeuse web
               en autodidacte et exploré la création de sites via projets et
               cours en ligne.
             </p>
-            <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
+            <p className="pt-3 text-sm leading-6 text-black lg:text-[0.95rem]">
               Formée intensivement pendant 9 mois chez OpenCLassrooms, j&apos;ai
               pu me familiariser, entre autres, avec{" "}
-              <span className="inline-block pt-1 leading-4 text-gray-dark shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
+              <span className="inline-block pt-1 leading-4 text-black shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
                 React,
               </span>{" "}
-              <span className="inline-block pt-1 leading-4 text-gray-dark shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
+              <span className="inline-block pt-1 leading-4 text-black shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
                 Sass
               </span>
               ,{" "}
-              <span className="inline-block pt-1 leading-4 text-gray-dark shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
+              <span className="inline-block pt-1 leading-4 text-black shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
                 Node.js
               </span>{" "}
               et{" "}
-              <span className="inline-block pt-1 leading-4 text-gray-dark shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
+              <span className="inline-block pt-1 leading-4 text-black shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
                 Redux
               </span>{" "}
               pour créer des applications web performantes. Je reste toujours
               motivée à participer à de nouveaux projets, à apprendre de
               nouvelles technologies et à travailler avec des esprits créatifs.
             </p>
-            <p className="pt-3  text-sm leading-6 text-gray-light lg:text-[0.95rem]">
+            <p className="pt-3  text-sm leading-6 text-black lg:text-[0.95rem]">
               N&apos;hésitez pas à parcourir mon portfolio pour découvrir mon
               univers. Si vous souhaitez collaborer ou simplement discuter de
               projets, je serais ravie d&apos;échanger avec vous !
