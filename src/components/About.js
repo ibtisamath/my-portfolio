@@ -9,7 +9,7 @@ const About = () => {
       id="about" 
       className=" m-auto -my-20 px-5 pb-12 pt-3 md:px-6 md:py-14 lg:-my-24 lg:max-w-[1160px] lg:px-12 lg:py-24"
     >
-      <div className="my-24 md:flex md:gap-8 lg:my-32 lg:gap-12 pt-[0rem]">
+      <div className="my-24 md:flex md:gap-8 lg:my-32 lg:gap-12">
         <div className="content-about">
           <motion.h1
             className="pb-3 font-kaushan text-[2.3rem] md:pb-3 md:pt-3 md:text-[2rem] lg:text-[2.5rem]"
