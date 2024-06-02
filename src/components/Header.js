@@ -11,7 +11,7 @@ const Header = () => {
     <header
       data-section
       id="home"
-      className="h-screen bg-bg-black bg-cover bg-top before:absolute before:left-0 before:right-0 before:top-0 before:h-screen before:w-full before:bg-gradient-to-b lg:bg-fixed lg:bg-center"
+      className="h-screen bg-black bg-cover bg-top before:absolute before:left-0 before:right-0 before:top-0 before:h-screen before:w-full before:bg-gradient-to-b lg:bg-fixed lg:bg-center"
     >
       <Navbar />
       <div className="absolute left-1/2 top-1/2 z-10 w-full -translate-x-1/2 -translate-y-1/2 transform text-center text-off-white">
