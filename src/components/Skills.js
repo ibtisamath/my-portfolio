@@ -52,7 +52,7 @@ const Skills = () => {
                   className="absolute -top-px flex h-full w-full items-center justify-center overflow-hidden rounded-[50%] bg-pink-global [backface-visibility:hidden] [transform:rotateY(180deg)]"
                   title={data.title}
                 >
-                  <p className="font-extralight uppercase text-black">{data.name} </p>
+                  <p className="font-bold uppercase text-black">{data.name} </p>
                 </div>
               </div>
             </motion.div>
