@@ -26,7 +26,7 @@ module.exports = {
         'spin-slow': 'spin 8s linear infinite'
       },
       backgroundImage: {
-        "bg-black": "url(/img/bg_black.png)",
+        "bg-black": "url(img/bg_black.png)",
       },
       boxShadow: {
         "2xl": "0 25px 50px 0 rgba(0, 0, 0, 0.045)",
