@@ -21,7 +21,7 @@ const Skills = () => {
     <section
       data-section
       id="skills"
-      className=" m-auto -my-20 bg-gray-global bg-black bg-cover bg-center px-5 py-14 text-off-white brightness-[1.5] md:py-20 lg:-my-24 lg:bg-fixed lg:px-12 lg:py-24"
+      className=" m-auto -my-20 bg-black bg-cover bg-center px-5 py-14 text-off-white brightness-[1.5] md:py-20 lg:-my-24 lg:bg-fixed lg:px-12 lg:py-24"
     >
       <h2 className="mb-[30px] mt-4 text-center font-kaushan text-[2.5rem] blur-[0.5px] lg:text-[2.8rem]">
         Mes compétences
